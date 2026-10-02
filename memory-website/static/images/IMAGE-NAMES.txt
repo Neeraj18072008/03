@@ -1,0 +1,24 @@
+Save the uploaded photos in this folder with these exact names:
+
+Page 6
+- first-date.png
+
+Page 7 — movie date (four photos)
+- movie-1.png
+- movie-2.png
+- movie-3.png
+- movie-4.png
+
+Page 8 — calls (three screenshots)
+- calls-1.png
+- calls-2.png
+- calls-3.png
+
+Page 9 — sorry memories (three photos)
+- sorry-1.png
+- sorry-2.png
+- sorry-3.png
+
+Page 10 — memorable days (two photos)
+- memorable-1.png
+- memorable-2.png
